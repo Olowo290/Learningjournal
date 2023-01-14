@@ -1,0 +1,42 @@
+body{
+    box-sizing: border-box;
+    color: #000;
+}
+.nav-bar{
+    top: 0;
+}
+.reduce-width{
+    width: 95%;
+    margin: auto;
+}
+html{
+    font-size: 62.5%;
+}
+.first-section h3,.first-section h1,main p,h2{
+    margin-top: 10px;
+}
+.first-section h1,h2{
+    font-size: 2rem;
+}
+main p{
+    font-size: 1.5rem;
+}
+.main{
+    width: 90vw;
+    margin: auto;
+}
+.first-section{
+    margin-top:80px;
+}
+.middlesec h3{
+    margin-top: 15px;
+}
+.main img{
+    width: 100%;
+}
+h2{
+    text-align: center;
+}
+footer{
+    color:#fff;
+}
